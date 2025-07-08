@@ -1,3 +1,9 @@
+<a name="top"></a>
+
+<a href="https://www.electroanalog.com">
+  <img src="https://electroanalog.github.io/img/electroanalog_logo.png" alt="Electroanalog" width="270px" />
+</a>
+
 # PSX SIO-qsb
 
 [![License: CERN-OHL-S-2.0](https://img.shields.io/badge/License-CERN--OHL--S--2.0-lightgrey.svg)](LICENSE)
@@ -62,15 +68,20 @@ By reducing the number of external wires compared to the standard Switch Board, 
 
 ## Installation Notes
 
+- **Preparation of the console’s mainboard and proper installation of the switchboard are strictly required for PSIO operation.**  
 - Connections should be soldered directly to the designated points previously prepared on the mainboard.
 - The recommended wire for these connections is **30 AWG wire-wrap**, which offers the ideal flexibility and diameter for clean routing.  
 - Fine-pitch soldering skills and proper tools are strongly recommended.  
 - The console’s CD-ROM bay remains fully functional when the PSIO cartridge is disconnected, as with the standard Switch Board design.  
 - Installing the **PSX SIO-qsb** does not interfere with the normal operation of the CD-ROM drive when the PSIO cartridge is not inserted.  
-- When using the PSIO menu system, users may launch disc-based games directly from the CD-ROM drive or access the built-in CD Player without removing the PSIO cartridge.  
+- When using the PSIO menu system, users may launch disc-based games directly from the CD-ROM drive or access the built-in CD Player without removing the PSIO cartridge.
+
 
 > [!IMPORTANT]
 > Installation points differs depending on PS1 motherboard revision. Always reference an installation diagram for your console’s PU-xx board code.
+
+> [!CAUTION]
+> Never insert the PSIO cartridge into a console that has not been modified with the switchboard, as doing so may result in damage to both the PSIO and the console’s mainboard.
 
 ---
 
@@ -103,7 +114,7 @@ Its physical layout was designed from scratch using the mechanical footprint of 
 
 <img src="img/scsi68.jpg" alt="SCSI 68-pin" width="600">
 
-<img src="img/schematic.png" alt="PSPSX SIO-qsb schematic" width="600">
+<img src="img/schematic.png" alt="PSX SIO-qsb schematic" width="600">
 
 ---
 
@@ -123,7 +134,19 @@ Its physical layout was designed from scratch using the mechanical footprint of 
 ## Why is it called PSX SIO-qsb?
 
 **PSX SIO-qsb** may be considered a utilitarian name, as *"qsb"* clearly identifies both the form factor and function of the board.  
-The designation clearly defines the board’s purpose as a *Quick Solder Board* for PSIO, engineered to streamline installation with minimal overhead. Yes, that’s the point. Let the name speak for itself.
+In this case, it refers to a compact switchboard that facilitates signal routing between the PSIO and the console’s CD-ROM interface, all while preserving the simplicity of quick soldering.  
+The designation defines its role clearly as an essential bridge for PSIO operation, engineered to streamline installation with minimal overhead.  
+Yes, that’s the point. Let the name speak for itself.  
+
+---
+
+## PSX SIO-qsb is also available on OSHWLab
+
+<p align="center">
+  <a href="https://oshwlab.com/electroanalog/psx_sio-qsb">
+    <img src="https://www.electroanalog.com/img/thumbnail_OSHWLab-logo.png" alt="OSHWLab" width="150" />
+  </a>
+</p>
 
 ---
 
