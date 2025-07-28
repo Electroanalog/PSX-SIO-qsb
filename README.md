@@ -116,6 +116,22 @@ Its physical layout was designed from scratch using the mechanical footprint of 
 
 <img src="img/schematic.png" alt="PSX SIO-qsb schematic" width="600">
 
+<details>
+<summary> <b>Schematics and PCBs - Click to expand</b> </summary>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://image-pro.easyeda.com/pullimages/9ad49a9d070f4dbda2126c0d93939e6c.webp" alt="PSX SIO-qsb Schematic" width="380" /><br/>
+      <sub><strong>PSX SIO-qsb</strong><br/>Schematic</sub>
+    </td>
+    <td align="center">
+      <img src="https://image-pro.easyeda.com/pullimages/d1a1e134883a4c2ca8267936c028805c.webp" alt="PSX SIO-qsb PCB" width="380" /><br/>
+      <sub><strong>PSX SIO-qsb</strong><br/>PCB</sub>
+    </td>
+  </tr>
+</table>
+</details>
+
 ---
 
 ## Gallery
