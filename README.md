@@ -109,6 +109,22 @@ A ready-to-manufacture Gerber file for the PSX SIO-qsb is included in this repos
 
 ## Schematic
 
+<details>
+<summary> <b>Schematic and PCB - Click to expand</b> </summary>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://image-pro.easyeda.com/pullimages/9ad49a9d070f4dbda2126c0d93939e6c.webp" alt="PSX SIO-qsb Schematic" width="380" /><br/>
+      <sub><strong>PSX SIO-qsb</strong><br/>Schematic</sub>
+    </td>
+    <td align="center">
+      <img src="https://image-pro.easyeda.com/pullimages/d1a1e134883a4c2ca8267936c028805c.webp" alt="PSX SIO-qsb PCB" width="380" /><br/>
+      <sub><strong>PSX SIO-qsb</strong><br/>PCB</sub>
+    </td>
+  </tr>
+</table>
+</details>
+
 The **PSX SIO-qsb** was developed based on the original Switch Board schematic published by *Cybdyn Systems*, available at [GamingDocs](https://gamingdoc.org/modding/consoles/sony-playstation/ode/psio/information/switchboard).  
 Its physical layout was designed from scratch using the mechanical footprint of a **68-pin SCSI connector** as a baseline for proper alignment and integration under the PS1 mainboard.  
 
