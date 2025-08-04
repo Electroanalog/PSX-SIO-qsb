@@ -107,6 +107,36 @@ A ready-to-manufacture Gerber file for the PSX SIO-qsb is included in this repos
 
 ---
 
+## PCB Manufacturing Recommendation
+
+For prototyping and production of the **PSX SIO-qsb**, we recommend **JLCPCB** as the preferred manufacturing partner.  
+Their consistent quality, competitive pricing, and fast turnaround make them an ideal choice for hobbyists and professionals alike.
+
+<p align="center">
+  <a href="https://jlcpcb.com">
+    <img src="https://www.electroanalog.com/img/jlcpcb_V2-.png" alt="JLCPCB" width="300" />
+  </a>
+</p>
+
+Founded in 2006, **JLCPCB** is one of the world’s leading PCB and PCBA manufacturers, serving over 6 million customers across 180+ countries.  
+Their fully automated production lines and digital ordering platform enable rapid delivery of high-reliability boards at low cost, ideal for prototyping and small-batch runs.
+
+> [!NOTE]
+> The PSX SIO-qsb was prototyped and validated using FR-4 PCBs manufactured by JLCPCB.
+
+### Recommended Specs
+
+- **Base Material:** FR-4  
+- **PCB Thickness:** 0.8 mm  
+- **Surface Finish:** HASL 
+- **Layers:** 2  
+- **PCB Assembly:** Top side
+
+JLCPCB frequently offers **discount coupons** and promotional pricing, making it a cost-effective option even for small quantities.  
+Manufacturing and shipping times are impressively fast, with most orders processed and dispatched within a few business days.
+
+---
+
 ## Schematic
 
 <details>
