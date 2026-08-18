@@ -194,6 +194,10 @@ Yes, that’s the point. Let the name speak for itself.
   </a>
 </p>
 
+OSHWLab is offering an excellent opportunity through its open‑source PCB design competition, which provides a $85,000 prize pool and free materials support for hardware developers.  
+Participants who register through the referral link can access additional benefits if they win a prize.  
+Check it out: https://oshwlab.com/activities/easyeda-spark-2026?inviter=electroanalog
+
 ---
 
 ## License
