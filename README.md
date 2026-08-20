@@ -19,6 +19,15 @@ It features the most compact footprint and a cleaner layout, enabling a more eff
 
 \* _**PSIO** is a flash cartridge that allows games to be loaded directly from an SD card via the console’s rear Parallel I/O port, bypassing the optical drive entirely._
 
+> [!TIP]
+> ## JLCPCB & EasyEDA Community Benefits
+> **New to JLCPCB?**  
+> New users can receive **up to $123 in coupons**:  
+> https://jlcpcb.com/?from=Electroanalog
+>
+> **EasyEDA Giveaway Coupon: $15**  
+> https://reurl.cc/mzd5EG
+
 ---
 
 ## Table of Contents
