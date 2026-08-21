@@ -122,7 +122,7 @@ For prototyping and production of the **PSX SIO-qsb**, we recommend **JLCPCB** a
 Their consistent quality, competitive pricing, and fast turnaround make them an ideal choice for hobbyists and professionals alike.
 
 <p align="center">
-  <a href="https://jlcpcb.com">
+  <a href="https://jlcpcb.com/?from=Electroanalog">
     <img src="https://www.electroanalog.com/img/jlcpcb_V2-.png" alt="JLCPCB" width="300" />
   </a>
 </p>
